@@ -1,4 +1,6 @@
-## 🚀 React Admin Dashboard - csi-reactadmindashboard.netlify.app/
+## 🚀 React Admin Dashboard
+https://www.csi-reactadmindashboard.netlify.app/
+
 `A feature-rich and modern admin dashboard built with React, Tailwind CSS, and CRACO, providing dynamic UI components, theme settings, charts, tables, and more.`
 
 ## `✅ Features`
